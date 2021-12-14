@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dmitriy Pavlichenko
-- 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning JavaEE + Java Spring
-- 💞️ I’m looking to collaborate on BackEnd project
+- 👀 I’m interested in java backend
+- 💞️ I’m looking to collaborate on backend project
 - 📫 How to reach me: pavlichenko.dmitriy@gmail.com
 
 <!---
